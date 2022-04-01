@@ -4,5 +4,5 @@
 2. Install npm and nodejs
 3. After copying the nvim folder, you have to install [Vim-Plug](https://github.com/junegunn/vim-plug) for Neovim in Linux
 4. Now, enter in Neovim and make a :PlugInstall
-5. Install xsel, fzf, ripgrep, fd
+5. Install xsel, fzf, ripgrep, fd, the_silver_searcher
 6. Enjoy
