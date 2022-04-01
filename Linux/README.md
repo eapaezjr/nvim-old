@@ -9,3 +9,5 @@
 7. Be sure you installed python3, pip
 8. Do "pip install neovim"
 10. Enjoy
+
+- Optional: You can install ranger for a file explorer in terminal.
