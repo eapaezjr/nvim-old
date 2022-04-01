@@ -1,4 +1,4 @@
-call plug#begin('C:\Users\pzeadrian\AppData\Local\nvim\autoload\plugged')
+call plug#begin('$HOME/.config/nvim/plugged')
 
 "--> Airline
 Plug 'vim-airline/vim-airline'
