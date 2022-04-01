@@ -6,4 +6,6 @@
 4. Now, enter in Neovim and make a :PlugInstall
 5. Install xsel, fzf, ripgrep, fd, the_silver_searcher
 6. Also install universal-ctags-git
-7. Enjoy
+7. Be sure you installed python3 and pip
+8. Do "pip install neovim"
+10. Enjoy
