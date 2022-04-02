@@ -1,4 +1,5 @@
 "--> General Settings
+let g:mapleader = "\<Space>"
 set number relativenumber
 set mouse=a
 set clipboard=unnamedplus
