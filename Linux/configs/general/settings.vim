@@ -1,12 +1,12 @@
 "--> General Settings
 let g:mapleader = "\<Space>"
-set number relativenumber
+set number "relativenumber
 set mouse=a
 set clipboard=unnamedplus
 set ruler
 set laststatus=0
 set cursorline
-set background=dark
+"set background=dark
 set smartindent
 set autoindent
 set expandtab
