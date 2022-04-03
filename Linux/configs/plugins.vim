@@ -11,7 +11,7 @@ Plug 'jiangmiao/auto-pairs'
 Plug 'sheerun/vim-polyglot'
 
 "--> Themes
-Plug 'joshdick/onedark.vim'
+Plug 'arcticicestudio/nord-vim'
 
 "--> Code completion
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
@@ -32,9 +32,6 @@ Plug 'scrooloose/NERDTree'
 
 "--> Icons
 "Plug 'ryanoasis/vim-devicons'
-
-"--> Indent Guides
-Plug 'Yggdroot/indentLine'
 
 "--> Prettier - Formatting Code
 Plug 'prettier/vim-prettier', {'do': 'yarn install'}
