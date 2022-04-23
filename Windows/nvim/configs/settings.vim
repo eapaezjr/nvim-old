@@ -1,5 +1,5 @@
 "--> General Settings
-set number relativenumber
+set number
 set mouse=a
 set clipboard=unnamedplus
 set ruler

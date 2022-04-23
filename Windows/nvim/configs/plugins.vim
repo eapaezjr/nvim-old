@@ -11,7 +11,7 @@ Plug 'jiangmiao/auto-pairs'
 Plug 'sheerun/vim-polyglot'
 
 "--> Themes
-Plug 'joshdick/onedark.vim'
+Plug 'arcticicestudio/nord-vim'
 
 "--> Code completion
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
