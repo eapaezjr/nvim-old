@@ -11,7 +11,8 @@ Plug 'jiangmiao/auto-pairs'
 Plug 'sheerun/vim-polyglot'
 
 "--> Themes
-Plug 'arcticicestudio/nord-vim'
+"Plug 'arcticicestudio/nord-vim'
+Plug 'morhetz/gruvbox'
 
 "--> Code completion
 Plug 'neoclide/coc.nvim', {'branch': 'release'}

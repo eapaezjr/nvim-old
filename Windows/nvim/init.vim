@@ -11,7 +11,7 @@ source $HOME\AppData\Local\nvim\configs\keys.vim
 source $HOME\AppData\Local\nvim\configs\plugins-conf.vim
 
 "--> Themes activation
-set termguicolors
-colorscheme nord
+set termguicolors background=dark
+colorscheme gruvbox
 let g:airline#extensions#tabline#enabled = 1
 let g:airline_powerline_fonts = 1
