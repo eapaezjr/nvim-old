@@ -11,7 +11,7 @@ Plug 'jiangmiao/auto-pairs'
 Plug 'sheerun/vim-polyglot'
 
 "--> Themes
-Plug 'arzg/vim-colors-xcode'
+Plug 'dracula/vim', { 'name': 'dracula' }
 
 "--> Code completion
 Plug 'neoclide/coc.nvim', {'branch': 'release'}

@@ -12,6 +12,6 @@ source $HOME/.config/nvim/configs/plugins-conf.vim
 
 "--> Themes activation
 "set termguicolors
-colorscheme xcodedark
+colorscheme dracula
 let g:airline#extensions#tabline#enabled = 1
 let g:airline_powerline_fonts = 1
