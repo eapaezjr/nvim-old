@@ -11,7 +11,7 @@ Plug 'jiangmiao/auto-pairs'
 Plug 'sheerun/vim-polyglot'
 
 "--> Themes
-Plug 'dracula/vim', { 'name': 'dracula' }
+Plug 'chriskempson/base16-vim'
 
 "--> Code completion
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
