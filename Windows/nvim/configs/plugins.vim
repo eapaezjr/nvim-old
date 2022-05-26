@@ -11,9 +11,19 @@ Plug 'jiangmiao/auto-pairs'
 Plug 'sheerun/vim-polyglot'
 
 "--> Themes
-"Plug 'arcticicestudio/nord-vim'
-Plug 'morhetz/gruvbox'
+Plug 'chriskempson/base16-vim'
 
 "--> Code completion
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
+
+"--> FZF
+Plug 'junegunn/fzf', {'do': { -> fzf#install() }}
+Plug 'junegunn/fzf.vim'
+Plug 'airblade/vim-rooter'
+
+"--> Comment Code
+Plug 'tpope/vim-commentary'
+
+"--> File Explorer
+Plug 'scrooloose/NERDTree'
 call plug#end()
