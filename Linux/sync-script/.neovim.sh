@@ -1,3 +1,7 @@
+cd $HOME/Documentos/configNeovim/
+git pull
+cd
+
 cp  $HOME/.config/nvim/coc-settings.json $HOME/Documentos/configNeovim/Linux/nvim/
 cp -R $HOME/.config/nvim/configs $HOME/Documentos/configNeovim/Linux/nvim/
 cp  $HOME/.config/nvim/init.vim $HOME/Documentos/configNeovim/Linux/nvim/
