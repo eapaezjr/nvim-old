@@ -35,4 +35,7 @@ Plug 'scrooloose/NERDTree'
 
 "--> Prettier - Formatting Code
 Plug 'prettier/vim-prettier', {'do': 'yarn install'}
+
+"--> LoremIpsum Generator
+Plug 'vim-scripts/loremipsum'
 call plug#end()
