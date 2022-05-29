@@ -26,4 +26,7 @@ Plug 'tpope/vim-commentary'
 
 "--> File Explorer
 Plug 'scrooloose/NERDTree'
+
+"--> Prettier - Formatting Code
+Plug 'prettier/vim-prettier', {'do': 'yarn install'}
 call plug#end()
