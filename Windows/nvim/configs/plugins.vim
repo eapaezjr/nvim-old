@@ -11,7 +11,7 @@ Plug 'jiangmiao/auto-pairs'
 Plug 'sheerun/vim-polyglot'
 
 "--> Themes
-Plug 'chriskempson/base16-vim'
+Plug 'morhetz/gruvbox'
 
 "--> Code completion
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
