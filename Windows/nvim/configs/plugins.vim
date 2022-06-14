@@ -1,8 +1,12 @@
 call plug#begin('$HOME\AppData\Local\nvim\autoload\plugged')
 
 "--> Airline
-Plug 'vim-airline/vim-airline'
-Plug 'vim-airline/vim-airline-themes'
+"Plug 'vim-airline/vim-airline'
+"Plug 'vim-airline/vim-airline-themes'
+
+"--> Lightline
+ Plug 'itchyny/lightline.vim'
+ Plug 'shinchu/lightline-gruvbox.vim'
 
 "--> Autopairs
 Plug 'jiangmiao/auto-pairs'
