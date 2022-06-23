@@ -20,11 +20,6 @@ Plug 'morhetz/gruvbox'
 "--> Code completion
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
-"--> FZF
-Plug 'junegunn/fzf', {'do': { -> fzf#install() }}
-Plug 'junegunn/fzf.vim'
-Plug 'airblade/vim-rooter'
-
 "--> Comment Code
 Plug 'tpope/vim-commentary'
 
@@ -36,4 +31,8 @@ Plug 'prettier/vim-prettier', {'do': 'yarn install'}
 
 "--> LoremIpsum Generator
 Plug 'vim-scripts/loremipsum'
+
+"--> GitHub Copilot
+Plug 'github/copilot.vim'
+
 call plug#end()
