@@ -2,11 +2,7 @@ cd $HOME/Documents/configNeovim/
 git pull
 cd
 
-cp  $HOME/.config/nvim/coc-settings.json $HOME/Documents/configNeovim/Linux/nvim/
-cp -R $HOME/.config/nvim/configs $HOME/Documents/configNeovim/Linux/nvim/
-cp  $HOME/.config/nvim/init.vim $HOME/Documents/configNeovim/Linux/nvim/
-cp $HOME/.config/coc/extensions/package.json $HOME/Documents/configNeovim/Linux/coc/extensions/
-#cp $HOME/.neovim.sh $HOME/Documents/configNeovim/Linux/sync-script/
+cp -R $HOME/,config/nvim/* $HOME/Documents/configNeovim/Linux/nvim/
 
 cd $HOME/Documents/configNeovim/
 git add -A
