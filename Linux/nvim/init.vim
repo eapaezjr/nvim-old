@@ -12,9 +12,14 @@ source $HOME/.config/nvim/configs/plugins-conf.vim
 
 "--> Themes activation
 set termguicolors
-colorscheme gruvbox 
+colorscheme catppuccin
+let g:catppuccin_flavour = "macchiato" " latte, frappe, macchiato, mocha
 let g:lightline = {}
-let g:lightline.colorscheme = 'gruvbox'
+let g:lightline = {'colorscheme': 'catppuccin'}
+
+lua << EOF
+require("catppuccin").setup()
+EOF
 
 "let g:airline#extensions#tabline#enabled = 1
 "let g:airline_powerline_fonts = 1

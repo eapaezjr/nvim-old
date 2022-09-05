@@ -15,7 +15,7 @@ Plug 'jiangmiao/auto-pairs'
 Plug 'sheerun/vim-polyglot'
 
 "--> Themes
-Plug 'morhetz/gruvbox'
+Plug 'catppuccin/nvim', {'as': 'catppuccin'}
 
 "--> Code completion
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
